@@ -21,5 +21,5 @@
 ### Link to website
 
 1. GitHub Repository: https://github.com/Maxie92/Refactor-Horiseon
-2. Website: https://Maxie92.github.io/Refactor-Horiseon
+2. Website: https://maxie92.github.io/Refactor-Horiseon/
 
